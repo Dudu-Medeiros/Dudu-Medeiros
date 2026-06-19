@@ -1,16 +1,95 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**Dudu-Medeiros/Dudu-Medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&reversal=true&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Eduardo%20Guilherme%20M.%20Antonino&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&rotate=0&stroke=-&strokeWidth=0&textBg=false&color=1A5FB4" alt="Banner Eduardo Medeiros" />
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">Desenvolvedor Front-End</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Sou Desenvolvedor Front-End com trajetória focada no desenvolvimento e evolução de arquiteturas SPA modernas, performáticas e minimalistas. Especialista no ecossistema JavaScript (React, Angular e TypeScript), possuo experiência sólida na entrega de módulos funcionais de alta complexidade, como sistemas de governança financeira, fluxos de controladoria, segurança e automação de processos. 
+  <br><br>
+  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
+</p>
+
+---
+
+### 🛠️ Principais Projetos e Tecnologias
+
+* **Fluxo (Sistema de Governança Financeira):** Atuação ponta a ponta na arquitetura de uma aplicação web voltada para centralização de contas domésticas, implementando dashboards responsivos (Flexbox), consumo assíncrono de APIs/JSON e relatórios estruturados.
+* **Integração de Modelos de IA:** Scripts em Python para consumo de LLMs com respostas estruturadas e automação de processos de desenvolvimento.
+
+<br>
+
+<div align="center">
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="html5 logo" />
+  <img width="12" />
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" alt="css logo" />
+  <img width="12" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo" />
+  <img width="12" />
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="typescript logo" />
+  <img width="12" />
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+  <img width="12" />
+  <!-- Angular -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angular logo" />
+  <img width="12" />
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
+  <img width="12" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="12" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img width="12" />
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
+</div>
+
+---
+
+### 📇 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardo-guilherme-5b41a9266/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="45" alt="linkedin logo" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:eduardoguilhermedem987@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=eduardoguilhermedem987@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="34" alt="gmail logo" />
+  </a>
+  
+  <!-- Descomente as linhas abaixo quando seu portfólio estiver pronto, substituindo a URL de destino -->
+  <!-- 
+  <a href="https://dudu-medeiros.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PORTFOLIO&logo=google-chrome&label=&color=1A5FB4&logoColor=white&style=for-the-badge" height="34" alt="portfolio logo" />
+  </a> 
+  -->
+</div>
+
+---
+
+### 📊 Estatísticas e Atividades
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dudu-Medeiros/Dudu-Medeiros/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dudu-Medeiros/Dudu-Medeiros/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dudu-Medeiros/Dudu-Medeiros/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
