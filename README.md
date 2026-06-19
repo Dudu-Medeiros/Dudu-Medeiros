@@ -9,7 +9,7 @@
 <p align="left">
   Sou Desenvolvedor Front-End com trajetória focada no desenvolvimento e evolução de arquiteturas SPA modernas, performáticas e minimalistas. Especialista no ecossistema JavaScript (React, Angular e TypeScript), possuo experiência sólida na entrega de módulos funcionais de alta complexidade, como sistemas de governança financeira, fluxos de controladoria, segurança e automação de processos. 
   <br><br>
-  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limhas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
+  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
 </p>
 
 ---
@@ -64,19 +64,12 @@
 ### 📊 Estatísticas e Atividades
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td rowspan="2" valign="top" align="center">
-        <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&currStreakNum=1A5FB4&fire=1A5FB4&sideNums=1A5FB4&sideLabels=666666&dates=666666&hide_border=false&border=1A5FB4&ring=1A5FB4&border_radius=5" height="195" alt="streak graph" />
-      </td>
-      <td valign="top" align="center" style="padding-left: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dudu-Medeiros&theme=dracula" height="105" alt="github activity" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="center" style="padding-left: 10px; padding-top: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&text_color=FFFFFF&hide_border=false&border_color=1A5FB4&border_radius=5&layout=compact" width="375" height="85" alt="github stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&currStreakNum=1A5FB4&fire=1A5FB4&sideNums=1A5FB4&sideLabels=666666&dates=666666&hide_border=false&border=1A5FB4&ring=1A5FB4&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dudu-Medeiros&theme=dracula&title_color=1A5FB4&text_color=FFFFFF&icon_color=1A5FB4" height="180" alt="github activity" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&text_color=FFFFFF&hide_border=false&border_color=1A5FB4&border_radius=5" width="480" alt="github stats" />
 </div>
