@@ -64,7 +64,7 @@
 ### 📊 Estatísticas e Atividades
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PERFIL_VISITS-1A5FB4?style=for-the-badge&logo=github&logoColor=white" height="35" alt="Visitor Badge" />
+  <img src="https://profile-counter.glitch.me/Dudu-Medeiros/count.svg" height="35" alt="Visitor Counter" />
 </div>
 
 <br>
