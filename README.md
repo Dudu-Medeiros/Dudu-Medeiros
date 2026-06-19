@@ -70,5 +70,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudu-Medeiros&theme=dracula&bg_color=181824&hide_border=false&border_radius=5" width="100%" alt="activity graph" />
+  <img src="https://github-readme-metrics.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&layout=compact" width="100%" alt="calendario de commits" />
 </div>
