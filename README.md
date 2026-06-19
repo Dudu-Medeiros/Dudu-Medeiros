@@ -64,6 +64,12 @@
 ### 📊 Estatísticas e Atividades
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dudu-Medeiros.Dudu-Medeiros&left_color=181824&right_color=1A5FB4" alt="Visitor Badge" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&currStreakNum=1A5FB4&fire=1A5FB4&sideNums=1A5FB4&sideLabels=666666&dates=666666&hide_border=false&border=1A5FB4&ring=1A5FB4&border_radius=5" width="450" alt="streak graph" />
 </div>
 
