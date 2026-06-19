@@ -9,7 +9,7 @@
 <p align="left">
   Sou Desenvolvedor Front-End com trajetória focada no desenvolvimento e evolução de arquiteturas SPA modernas, performáticas e minimalistas. Especialista no ecossistema JavaScript (React, Angular e TypeScript), possuo experiência sólida na entrega de módulos funcionais de alta complexidade, como sistemas de governança financeira, fluxos de controladoria, segurança e automação de processos. 
   <br><br>
-  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
+  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas in interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
 </p>
 
 ---
@@ -22,34 +22,24 @@
 <br>
 
 <div align="center">
-  <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="html5 logo" />
   <img width="12" />
-  <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" alt="css logo" />
   <img width="12" />
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo" />
   <img width="12" />
-  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="typescript logo" />
   <img width="12" />
-  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
   <img width="12" />
-  <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angular logo" />
   <img width="12" />
-  <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
   <img width="12" />
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
   <img width="12" />
-  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
 </div>
 
@@ -67,13 +57,6 @@
   <a href="mailto:eduardoguilhermedem987@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=eduardoguilhermedem987@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="34" alt="gmail logo" />
   </a>
-  
-  <!-- Descomente as linhas abaixo quando seu portfólio estiver pronto, substituindo a URL de destino -->
-  <!-- 
-  <a href="https://dudu-medeiros.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PORTFOLIO&logo=google-chrome&label=&color=1A5FB4&logoColor=white&style=for-the-badge" height="34" alt="portfolio logo" />
-  </a> 
-  -->
 </div>
 
 ---
@@ -87,9 +70,5 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dudu-Medeiros/Dudu-Medeiros/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dudu-Medeiros/Dudu-Medeiros/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dudu-Medeiros/Dudu-Medeiros/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&hide_border=false&border_radius=5" height="150" alt="github stats" />
 </div>
