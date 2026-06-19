@@ -64,12 +64,17 @@
 ### 📊 Estatísticas e Atividades
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&currStreakNum=1A5FB4&fire=1A5FB4&sideNums=1A5FB4&sideLabels=666666&dates=666666&hide_border=false&border=1A5FB4&ring=1A5FB4&border_radius=5" height="185" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&text_color=FFFFFF&hide_border=false&border_color=1A5FB4&border_radius=5" height="185" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&currStreakNum=1A5FB4&fire=1A5FB4&sideNums=1A5FB4&sideLabels=666666&dates=666666&hide_border=false&border=1A5FB4&ring=1A5FB4&border_radius=5" width="450" alt="streak graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dudu-Medeiros&theme=dracula&title_color=1A5FB4&text_color=FFFFFF&icon_color=1A5FB4" width="100%" alt="github annual activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&text_color=FFFFFF&hide_border=false&border_color=1A5FB4&border_radius=5" width="450" alt="github stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudu-Medeiros&theme=dracula&color=1A5FB4&line=1A5FB4&point=FFFFFF&area=true&bg_color=181824&hide_border=false&border_radius=5" width="90%" alt="activity graph" />
 </div>
