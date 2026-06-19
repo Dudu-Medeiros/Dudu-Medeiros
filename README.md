@@ -64,7 +64,8 @@
 ### 📊 Estatísticas e Atividades
 
 <div align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=Dudu-Medeiros&style=for-the-badge&bg_left=181824&bg_right=1A5FB4&txt_left=PERFIL+VISITS" height="35" alt="Visitor Badge" />
+  <p>✨ <b>Perfil Visitantes</b> ✨</p>
+  <img src="https://moe-counter.glitch.me/get/@Dudu-Medeiros?theme=rule34" alt="Visitor Counter" />
 </div>
 
 <br>
