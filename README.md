@@ -65,10 +65,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&layout=compact" width="100%" alt="calendario de commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&hide_border=false&border_radius=5" height="150" alt="github stats" />
 </div>
