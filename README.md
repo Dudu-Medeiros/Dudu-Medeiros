@@ -64,7 +64,7 @@
 ### 📊 Estatísticas e Atividades
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Dudu-Medeiros/count.svg" height="35" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Dudu-Medeiros&style=for-the-badge&color=1A5FB4&label=PERFIL+VISITS" height="35" alt="Visitor Badge" />
 </div>
 
 <br>
