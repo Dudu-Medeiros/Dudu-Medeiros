@@ -9,7 +9,7 @@
 <p align="left">
   Sou Desenvolvedor Front-End com trajetória focada no desenvolvimento e evolução de arquiteturas SPA modernas, performáticas e minimalistas. Especialista no ecossistema JavaScript (React, Angular e TypeScript), possuo experiência sólida na entrega de módulos funcionais de alta complexidade, como sistemas de governança financeira, fluxos de controladoria, segurança e automação de processos. 
   <br><br>
-  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas in interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
+  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
 </p>
 
 ---
@@ -70,5 +70,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&hide_border=false&border_radius=5" height="150" alt="github stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudu-Medeiros&theme=dracula&bg_color=181824&hide_border=false&border_radius=5" width="100%" alt="activity graph" />
 </div>
