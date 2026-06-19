@@ -9,7 +9,7 @@
 <p align="left">
   Sou Desenvolvedor Front-End com trajetória focada no desenvolvimento e evolução de arquiteturas SPA modernas, performáticas e minimalistas. Especialista no ecossistema JavaScript (React, Angular e TypeScript), possuo experiência sólida na entrega de módulos funcionais de alta complexidade, como sistemas de governança financeira, fluxos de controladoria, segurança e automação de processos. 
   <br><br>
-  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas in interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
+  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ### 📊 Estatísticas e Atividades
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Dudu-Medeiros.Dudu-Medeiros&style=for-the-badge&color=1A5FB4&label=Perfil+Visits" height="32" alt="Visitor Badge" />
+  <img src="https://img.shields.io/badge/PERFIL_VISITS-1A5FB4?style=for-the-badge&logo=github&logoColor=white" height="35" alt="Visitor Badge" />
 </div>
 
 <br>
