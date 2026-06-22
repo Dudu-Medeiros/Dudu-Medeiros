@@ -48,6 +48,11 @@
 ### 📇 Conecte-se Comigo
 
 <div align="center">
+  <a href="https://eduardoguilherme.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-1A5FB4?style=for-the-badge&logo=vercel&logoColor=white" height="34" alt="portfolio" />
+  </a>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/eduardo-guilherme-5b41a9266/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="45" alt="linkedin logo" />
   </a>
