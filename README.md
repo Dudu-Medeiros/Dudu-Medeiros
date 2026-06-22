@@ -9,7 +9,7 @@
 <p align="left">
   Sou Desenvolvedor Front-End com trajetória focada no desenvolvimento e evolução de arquiteturas SPA modernas, performáticas e minimalistas. Especialista no ecossistema JavaScript (React, Angular e TypeScript), possuo experiência sólida na entrega de módulos funcionais de alta complexidade, como sistemas de governança financeira, fluxos de controladoria, segurança e automação de processos. 
   <br><br>
-  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
+  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas in interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
 </p>
 
 ---
@@ -49,18 +49,15 @@
 
 <div align="center">
   <a href="https://eduardoguilherme.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-1A5FB4?style=for-the-badge&logo=vercel&logoColor=white" height="34" alt="portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0077B5?style=for-the-badge&logo=globe&logoColor=white" height="34" alt="portfolio" />
   </a>
-
-<div align="center">
+  <img width="10" />
   <a href="https://www.linkedin.com/in/eduardo-guilherme-5b41a9266/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="45" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="linkedin" />
   </a>
-</div>
-
-<div align="center">
+  <img width="10" />
   <a href="mailto:eduardoguilhermedem987@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=eduardoguilhermedem987@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="34" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="gmail logo" />
   </a>
 </div>
 
