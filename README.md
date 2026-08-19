@@ -68,21 +68,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dudu-Medeiros&style=for-the-badge&color=1A5FB4&label=PERFIL+VISITS" height="35" alt="Visitor Badge" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dudu-Medeiros&locale=en&mode=daily&theme=dracula&currStreakNum=1A5FB4&fire=1A5FB4&sideNums=1A5FB4&sideLabels=666666&dates=666666&hide_border=false&border=1A5FB4&ring=1A5FB4&border_radius=5" width="450" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dudu-Medeiros&show_icons=true&theme=dracula&title_color=1A5FB4&icon_color=1A5FB4&text_color=FFFFFF&hide_border=false&border_color=1A5FB4&border_radius=5" width="450" alt="github stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudu-Medeiros&theme=dracula&color=1A5FB4&line=1A5FB4&point=FFFFFF&area=true&bg_color=181824&hide_border=false&border_radius=5" width="90%" alt="activity graph" />
-</div>
