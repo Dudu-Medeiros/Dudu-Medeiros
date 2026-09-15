@@ -18,7 +18,7 @@
 
 ### 🛠️ Projetos & Foco Técnico
 
-* 🚀 **[Fluxo – Gerenciamento Financeiro](https://github.com/Dudu-Medeiros):** Aplicação de governança e centralização de contas domésticas desenvolvida em **React e JavaScript**. Implementação de componentes funcionais com **Hooks (`useState`, `useEffect`)**, consumo de dados assíncronos em JSON, dashboards responsivos (Flexbox) e exportação de relatórios em PDF.
+* 🚀 **[Fluxo – Gerenciamento Financeiro]:** Aplicação de governança e centralização de contas domésticas desenvolvida em **React e JavaScript**. Implementação de componentes funcionais com **Hooks (`useState`, `useEffect`)**, consumo de dados assíncronos em JSON, dashboards responsivos (Flexbox) e exportação de relatórios em PDF.
 * 🤖 **Automações & Integração de IA:** Scripts em **Python** para integração de LLMs com respostas estruturadas e automação de fluxos de desenvolvimento.
 
 <br>
