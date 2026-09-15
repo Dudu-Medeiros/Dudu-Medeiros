@@ -4,7 +4,7 @@
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&reversal=true&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Eduardo%20Guilherme%20M.%20Antonino&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&rotate=0&stroke=-&strokeWidth=0&textBg=false&color=1A5FB4" alt="Banner Eduardo Medeiros" />
 </div>
 
-<h3 align="center">Desenvolvedor Front-End & Web</h3>
+<h3 align="center">Desenvolvedor Web Front-End</h3>
 
 <p align="left">
   Desenvolvedor Web com foco principal em <strong>Front-End</strong> e arquiteturas SPA modernas, responsivas e de alta performance. Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong> (Recife/PE).
