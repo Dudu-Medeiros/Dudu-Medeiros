@@ -4,43 +4,50 @@
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&reversal=true&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Eduardo%20Guilherme%20M.%20Antonino&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&rotate=0&stroke=-&strokeWidth=0&textBg=false&color=1A5FB4" alt="Banner Eduardo Medeiros" />
 </div>
 
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h3 align="center">Desenvolvedor Front-End & Web</h3>
 
 <p align="left">
-  Sou Desenvolvedor Front-End com trajetória focada no desenvolvimento e evolução de arquiteturas SPA modernas, performáticas e minimalistas. Especialista no ecossistema JavaScript (React, Angular e TypeScript), possuo experiência sólida na entrega de módulos funcionais de alta complexidade, como sistemas de governança financeira, fluxos de controladoria, segurança e automação de processos. 
+  Desenvolvedor Web com foco principal em <strong>Front-End</strong> e arquiteturas SPA modernas, responsivas e de alta performance. Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong> (Recife/PE).
   <br><br>
-  Também atuo na integração de modelos de IA (LLMs) via Python e engenharia de prompt para otimizar fluxos de trabalho. Busco sempre traduzir regras de negócio complexas em interfaces responsivas, limpas e focadas na experiência do usuário final (Mobile-First). Atualmente, sou graduando em <strong>Sistemas de Informação pela UNINASSAU</strong>.
+  Minha stack principal é centralizada no ecossistema <strong>React, JavaScript (ES6+), TypeScript, HTML5 e CSS3/Tailwind</strong>. Possuo experiência prática no desenvolvimento de sistemas web complexos, como aplicações de governança financeira, dashboards interativos, módulos de autenticação e geração automatizada de relatórios em PDF.
+  <br><br>
+  Também possuo vivência na automação de processos utilizando <strong>Python</strong>, além da integração de modelos de IA (LLMs) via APIs com engenharia de prompt estruturada em JSON. Busco sempre aplicar as melhores práticas de UI/UX, arquitetura limpa e abordagem <em>Mobile-First</em>.
 </p>
 
 ---
 
-### 🛠️ Principais Projetos e Tecnologias
+### 🛠️ Projetos & Foco Técnico
 
-* **Fluxo (Sistema de Governança Financeira):** Atuação ponta a ponta na arquitetura de uma aplicação web voltada para centralização de contas domésticas, implementando dashboards responsivos (Flexbox), consumo assíncrono de APIs/JSON e relatórios estruturados.
-* **Integração de Modelos de IA:** Scripts em Python para consumo de LLMs com respostas estruturadas e automação de processos de desenvolvimento.
+* 🚀 **[Fluxo – Gerenciamento Financeiro](https://github.com/Dudu-Medeiros):** Aplicação de governança e centralização de contas domésticas desenvolvida em **React e JavaScript**. Implementação de componentes funcionais com **Hooks (`useState`, `useEffect`)**, consumo de dados assíncronos em JSON, dashboards responsivos (Flexbox) e exportação de relatórios em PDF.
+* 🤖 **Automações & Integração de IA:** Scripts em **Python** para integração de LLMs com respostas estruturadas e automação de fluxos de desenvolvimento.
 
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
+  <!-- Front-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="45" alt="html5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="45" alt="css logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="45" alt="typescript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwindcss logo" />
+  <img width="8" />
+  
+  <!-- Back-End / Outros -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
 </div>
 
 ---
@@ -63,7 +70,7 @@
 
 ---
 
-### 📊 Estatísticas e Atividades
+### 📊 Estatísticas do Perfil
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dudu-Medeiros&style=for-the-badge&color=1A5FB4&label=PERFIL+VISITS" height="35" alt="Visitor Badge" />
